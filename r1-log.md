@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Cat
 
-The log of my #100DaysOfCode challenge. Started on [Monday, 19 March 2017].
+The log of my #100DaysOfCode challenge. Started on [Monday, 19 March 2018].
 
 ## Log
 
