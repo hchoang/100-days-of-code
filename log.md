@@ -10,3 +10,4 @@
 **Tommorow's Plan:** Continue working on VnBargain App. Also there are several challenges on Hackerank to solve.
 
 **Link to work:** [VnBargain App](https://github.com/hchoang/vnbargain)
+[Github Commits](https://github.com/hchoang/vnbargain/commit/652ac237189d4aa4eb7563475aeea3674468d639)
